@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="cprakhar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cprakhar&theme=darkhub" alt="cprakhar" /></a> </p>
+<img align="right" alt="Coding" width="300" height="275" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🌱 I’m currently learning **Backend Development in Go**
 
