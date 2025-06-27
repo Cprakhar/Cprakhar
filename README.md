@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cprakhar&theme=darkhub" alt="cprakhar" /></a> </p>
 <img align="right" alt="Coding" width="300" height="275" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Full-stack development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Analytics**
+- 💬 Ask me about **Machine Learning, Deep Learning, Full-stack development**
 
 - 📫 How to reach me **chhalotreprakhar00@gmail.com**
 
