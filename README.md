@@ -26,7 +26,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-coral.vercel.app/?username=cprakhar&theme=gruvbox&row=1&margin-w=15" alt="cprakhar" /></a> </p>
 <p>
-<img width="300" src="https://github-readme-stats-three-theta-97.vercel.app/api/top-langs?username=cprakhar&show_icons=true&locale=en&layout=compact&theme=github_dark" />
-<img width="350" src="https://github-readme-stats-three-theta-97.vercel.app/api?username=cprakhar&show=prs_merged&show_icons=true&locale=en&theme=github_dark" />
-<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=cprakhar&theme=github_dark" />
+<img width="400" src="https://github-readme-stats-three-theta-97.vercel.app/api/top-langs?username=cprakhar&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats-three-theta-97.vercel.app/api?username=cprakhar&show=prs_merged&show_icons=true&locale=en&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cprakhar&theme=github_dark" />
 </p>
